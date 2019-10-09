@@ -1,0 +1,720 @@
+Clinical decision support system
+Clinical information systems
+Health information technology
+Workflow
+Clinical decision support system
+Clinical information systems
+Health information technology
+Workflow
+Clinical decision support system
+Clinical information systems
+Health information technology
+Workflow
+Clinical decision support system
+Clinical information systems
+Health information technology
+Workflow
+Clinical decision support system
+Clinical information systems
+Health information technology
+Workflow
+burnout
+electronic medical record
+health information technology
+burnout
+electronic medical record
+health information technology
+data visualization
+hypertension
+hypertension control
+patients’ judgment
+primary care
+data visualization
+hypertension
+hypertension control
+patients’ judgment
+primary care
+data visualization
+hypertension
+hypertension control
+patients’ judgment
+primary care
+data visualization
+hypertension
+hypertension control
+patients’ judgment
+primary care
+data visualization
+hypertension
+hypertension control
+patients’ judgment
+primary care
+data visualization
+hypertension
+hypertension control
+patients’ judgment
+primary care
+data visualization
+hypertension
+hypertension control
+patients’ judgment
+primary care
+data visualization
+hypertension
+hypertension control
+patients’ judgment
+primary care
+data visualization
+hypertension
+hypertension control
+patients’ judgment
+primary care
+data visualization
+hypertension
+hypertension control
+patients’ judgment
+primary care
+ambulatory care
+chronic disease
+cognition
+computer graphics
+electronic health record
+human–computer interaction
+ambulatory care
+chronic disease
+cognition
+computer graphics
+electronic health record
+human–computer interaction
+ambulatory care
+chronic disease
+cognition
+computer graphics
+electronic health record
+human–computer interaction
+ambulatory care
+chronic disease
+cognition
+computer graphics
+electronic health record
+human–computer interaction
+ambulatory care
+chronic disease
+cognition
+computer graphics
+electronic health record
+human–computer interaction
+ambulatory care
+chronic disease
+cognition
+computer graphics
+electronic health record
+human–computer interaction
+ambulatory care
+chronic disease
+cognition
+computer graphics
+electronic health record
+human–computer interaction
+ambulatory care
+chronic disease
+cognition
+computer graphics
+electronic health record
+human–computer interaction
+ambulatory care
+chronic disease
+cognition
+computer graphics
+electronic health record
+human–computer interaction
+Ambulatory Care/organization & administration*
+Chronic Disease
+Electronic Health Records*
+Female
+Humans
+Male
+Models, Organizational
+Physical Examination
+Physicians, Primary Care/organization & administration*
+Primary Health Care/methods
+Primary Health Care/organization & administration*
+Time Factors
+Ambulatory Care/organization & administration*
+Chronic Disease
+Electronic Health Records*
+Female
+Humans
+Male
+Models, Organizational
+Physical Examination
+Physicians, Primary Care/organization & administration*
+Primary Health Care/methods
+Primary Health Care/organization & administration*
+Time Factors
+Ambulatory Care/organization & administration*
+Chronic Disease
+Electronic Health Records*
+Female
+Humans
+Male
+Models, Organizational
+Physical Examination
+Physicians, Primary Care/organization & administration*
+Primary Health Care/methods
+Primary Health Care/organization & administration*
+Time Factors
+Ambulatory Care/organization & administration*
+Chronic Disease
+Electronic Health Records*
+Female
+Humans
+Male
+Models, Organizational
+Physical Examination
+Physicians, Primary Care/organization & administration*
+Primary Health Care/methods
+Primary Health Care/organization & administration*
+Time Factors
+Ambulatory Care/organization & administration*
+Chronic Disease
+Electronic Health Records*
+Female
+Humans
+Male
+Models, Organizational
+Physical Examination
+Physicians, Primary Care/organization & administration*
+Primary Health Care/methods
+Primary Health Care/organization & administration*
+Time Factors
+Ambulatory Care/organization & administration*
+Chronic Disease
+Electronic Health Records*
+Female
+Humans
+Male
+Models, Organizational
+Physical Examination
+Physicians, Primary Care/organization & administration*
+Primary Health Care/methods
+Primary Health Care/organization & administration*
+Time Factors
+Data display
+electronic health records
+information seeking behavior
+patients
+primary health care
+Data display
+electronic health records
+information seeking behavior
+patients
+primary health care
+Data display
+electronic health records
+information seeking behavior
+patients
+primary health care
+Data display
+electronic health records
+information seeking behavior
+patients
+primary health care
+Data display
+electronic health records
+information seeking behavior
+patients
+primary health care
+Data display
+electronic health records
+information seeking behavior
+patients
+primary health care
+Data display
+electronic health records
+information seeking behavior
+patients
+primary health care
+primary care
+physicians
+usability
+electronic health records
+computerized physician order entry
+user-computer interface
+information need
+information-seeking behavior
+patient-centered care
+patients
+primary healthcare
+information need
+information-seeking behavior
+patient-centered care
+patients
+primary healthcare
+information need
+information-seeking behavior
+patient-centered care
+patients
+primary healthcare
+information need
+information-seeking behavior
+patient-centered care
+patients
+primary healthcare
+information need
+information-seeking behavior
+patient-centered care
+patients
+primary healthcare
+information need
+information-seeking behavior
+patient-centered care
+patients
+primary healthcare
+information need
+information-seeking behavior
+patient-centered care
+patients
+primary healthcare
+information need
+information-seeking behavior
+patient-centered care
+patients
+primary healthcare
+information need
+information-seeking behavior
+patient-centered care
+patients
+primary healthcare
+Decision Theory
+Electronic Health Records
+Information Systems
+Medical Informatics
+Qualitative Research
+Decision Theory
+Electronic Health Records
+Information Systems
+Medical Informatics
+Qualitative Research
+Decision Theory
+Electronic Health Records
+Information Systems
+Medical Informatics
+Qualitative Research
+Decision Theory
+Electronic Health Records
+Information Systems
+Medical Informatics
+Qualitative Research
+Decision Theory
+Electronic Health Records
+Information Systems
+Medical Informatics
+Qualitative Research
+Decision Theory
+Electronic Health Records
+Information Systems
+Medical Informatics
+Qualitative Research
+Decision Theory
+Electronic Health Records
+Information Systems
+Medical Informatics
+Qualitative Research
+evaluation
+medical informatics
+Acute Disease
+Adult
+Ambulatory Care*
+Ambulatory Care Information Systems*
+Chronic Disease
+Demography
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Physicians
+Primary Care*
+Acute Disease
+Adult
+Ambulatory Care*
+Ambulatory Care Information Systems*
+Chronic Disease
+Demography
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Physicians
+Primary Care*
+Acute Disease
+Adult
+Ambulatory Care*
+Ambulatory Care Information Systems*
+Chronic Disease
+Demography
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Physicians
+Primary Care*
+Acute Disease
+Adult
+Ambulatory Care*
+Ambulatory Care Information Systems*
+Chronic Disease
+Demography
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Physicians
+Primary Care*
+Acute Disease
+Adult
+Ambulatory Care*
+Ambulatory Care Information Systems*
+Chronic Disease
+Demography
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Physicians
+Primary Care*
+electronic health records
+general practitioners (GPs)
+information-seeking behaviour
+literature
+nurses
+primary health care
+review
+Decision Support Systems, Clinical
+Electronic Health Records
+Humans
+Information Seeking Behavior*
+Physicians, Primary Care*
+Primary Care Nursing*
+electronic health records
+general practitioners (GPs)
+information-seeking behaviour
+literature
+nurses
+primary health care
+review
+Decision Support Systems, Clinical
+Electronic Health Records
+Humans
+Information Seeking Behavior*
+Physicians, Primary Care*
+Primary Care Nursing*
+electronic health records
+general practitioners (GPs)
+information-seeking behaviour
+literature
+nurses
+primary health care
+review
+Decision Support Systems, Clinical
+Electronic Health Records
+Humans
+Information Seeking Behavior*
+Physicians, Primary Care*
+Primary Care Nursing*
+electronic health records
+general practitioners (GPs)
+information-seeking behaviour
+literature
+nurses
+primary health care
+review
+Decision Support Systems, Clinical
+Electronic Health Records
+Humans
+Information Seeking Behavior*
+Physicians, Primary Care*
+Primary Care Nursing*
+electronic health records
+general practitioners (GPs)
+information-seeking behaviour
+literature
+nurses
+primary health care
+review
+Decision Support Systems, Clinical
+Electronic Health Records
+Humans
+Information Seeking Behavior*
+Physicians, Primary Care*
+Primary Care Nursing*
+Comprehension*
+Electronic Health Records*
+Family Practice
+User-Computer Interface*
+Comprehension*
+Electronic Health Records*
+Family Practice
+User-Computer Interface*
+EDIS
+Electronic health records
+emergency department information system
+usability engineering
+EDIS
+Electronic health records
+emergency department information system
+usability engineering
+EDIS
+Electronic health records
+emergency department information system
+usability engineering
+EDIS
+Electronic health records
+emergency department information system
+usability engineering
+EDIS
+Electronic health records
+emergency department information system
+usability engineering
+EDIS
+Electronic health records
+emergency department information system
+usability engineering
+Adult
+Attitude of Health Personnel
+Data Display*
+Diabetes Mellitus/therapy*
+Efficiency
+Electronic Health Records*
+Female
+Health Status Indicators
+Humans
+Information Seeking Behavior
+Male
+Middle Aged
+Physicians
+Primary Care/psychology*
+Time Factors
+Time and Motion Studies
+User-Computer Interface*
+Adult
+Attitude of Health Personnel
+Data Display*
+Diabetes Mellitus/therapy*
+Efficiency
+Electronic Health Records*
+Female
+Health Status Indicators
+Humans
+Information Seeking Behavior
+Male
+Middle Aged
+Physicians
+Primary Care/psychology*
+Time Factors
+Time and Motion Studies
+User-Computer Interface*
+Adult
+Attitude of Health Personnel
+Data Display*
+Diabetes Mellitus/therapy*
+Efficiency
+Electronic Health Records*
+Female
+Health Status Indicators
+Humans
+Information Seeking Behavior
+Male
+Middle Aged
+Physicians
+Primary Care/psychology*
+Time Factors
+Time and Motion Studies
+User-Computer Interface*
+Adult
+Attitude of Health Personnel
+Data Display*
+Diabetes Mellitus/therapy*
+Efficiency
+Electronic Health Records*
+Female
+Health Status Indicators
+Humans
+Information Seeking Behavior
+Male
+Middle Aged
+Physicians
+Primary Care/psychology*
+Time Factors
+Time and Motion Studies
+User-Computer Interface*
+Adult
+Attitude of Health Personnel
+Data Display*
+Diabetes Mellitus/therapy*
+Efficiency
+Electronic Health Records*
+Female
+Health Status Indicators
+Humans
+Information Seeking Behavior
+Male
+Middle Aged
+Physicians
+Primary Care/psychology*
+Time Factors
+Time and Motion Studies
+User-Computer Interface*
+Adult
+Attitude of Health Personnel
+Data Display*
+Diabetes Mellitus/therapy*
+Efficiency
+Electronic Health Records*
+Female
+Health Status Indicators
+Humans
+Information Seeking Behavior
+Male
+Middle Aged
+Physicians
+Primary Care/psychology*
+Time Factors
+Time and Motion Studies
+User-Computer Interface*
+Adult
+Attitude of Health Personnel
+Data Display*
+Diabetes Mellitus/therapy*
+Efficiency
+Electronic Health Records*
+Female
+Health Status Indicators
+Humans
+Information Seeking Behavior
+Male
+Middle Aged
+Physicians
+Primary Care/psychology*
+Time Factors
+Time and Motion Studies
+User-Computer Interface*
+Adult
+Attitude of Health Personnel
+Data Display*
+Diabetes Mellitus/therapy*
+Efficiency
+Electronic Health Records*
+Female
+Health Status Indicators
+Humans
+Information Seeking Behavior
+Male
+Middle Aged
+Physicians
+Primary Care/psychology*
+Time Factors
+Time and Motion Studies
+User-Computer Interface*
+Adult
+Attitude of Health Personnel
+Data Display*
+Diabetes Mellitus/therapy*
+Efficiency
+Electronic Health Records*
+Female
+Health Status Indicators
+Humans
+Information Seeking Behavior
+Male
+Middle Aged
+Physicians
+Primary Care/psychology*
+Time Factors
+Time and Motion Studies
+User-Computer Interface*
+Ambulatory Care/organization & administration*
+Computer Security*
+Delivery of Health Care/organization & administration*
+Hospital Communication Systems/organization & administration*
+Internet*
+Medical Records Systems, Computerized/organization & administration*
+Physician-Patient Relations*
+United States
+Ambulatory Care/organization & administration*
+Computer Security*
+Delivery of Health Care/organization & administration*
+Hospital Communication Systems/organization & administration*
+Internet*
+Medical Records Systems, Computerized/organization & administration*
+Physician-Patient Relations*
+United States
+Ambulatory Care/organization & administration*
+Computer Security*
+Delivery of Health Care/organization & administration*
+Hospital Communication Systems/organization & administration*
+Internet*
+Medical Records Systems, Computerized/organization & administration*
+Physician-Patient Relations*
+United States
+Ambulatory Care/organization & administration*
+Computer Security*
+Delivery of Health Care/organization & administration*
+Hospital Communication Systems/organization & administration*
+Internet*
+Medical Records Systems, Computerized/organization & administration*
+Physician-Patient Relations*
+United States
+Ambulatory Care/organization & administration*
+Computer Security*
+Delivery of Health Care/organization & administration*
+Hospital Communication Systems/organization & administration*
+Internet*
+Medical Records Systems, Computerized/organization & administration*
+Physician-Patient Relations*
+United States
+Ambulatory Care/organization & administration*
+Computer Security*
+Delivery of Health Care/organization & administration*
+Hospital Communication Systems/organization & administration*
+Internet*
+Medical Records Systems, Computerized/organization & administration*
+Physician-Patient Relations*
+United States
+Ambulatory Care/organization & administration*
+Computer Security*
+Delivery of Health Care/organization & administration*
+Hospital Communication Systems/organization & administration*
+Internet*
+Medical Records Systems, Computerized/organization & administration*
+Physician-Patient Relations*
+United States
+Ambulatory Care/organization & administration*
+Computer Security*
+Delivery of Health Care/organization & administration*
+Hospital Communication Systems/organization & administration*
+Internet*
+Medical Records Systems, Computerized/organization & administration*
+Physician-Patient Relations*
+United States
+Ambulatory Care/organization & administration*
+Computer Security*
+Delivery of Health Care/organization & administration*
+Hospital Communication Systems/organization & administration*
+Internet*
+Medical Records Systems, Computerized/organization & administration*
+Physician-Patient Relations*
+United States
+Depression/complications
+Evidence-Based Medicine
+Family Practice
+Fatigue/diagnosis
+Fatigue/etiology
+Fatigue/psychology
+Fatigue/therapy*
+Humans
